@@ -1,73 +1,72 @@
-## Deployment Link
-https://book-my-show-clone-teal.vercel.app/
+# Movie Booking Application
 
-# Getting Started with Create React App
+Welcome to the Movie Booking Application! This application allows users to browse and book movies, similar to platforms like BookMyShow. It's built using React.js, Tailwind CSS, and the react-slick carousel library. The backend API routes are powered by TMDB for fetching movie data. Users can explore recommended movies, premiers, online streaming events, and more.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Features
 
-## Available Scripts
+- **Movie Listings:** Browse through recommended movies, premiers, and online streaming events.
 
-In the project directory, you can run:
+- **Detailed Movie Pages:** Click on a movie card to navigate to the movie's specific page, showing comprehensive details.
 
-### `npm start`
+- **Secure Payments:** Users can buy or rent movies securely using Razorpay, a test mode payment gateway.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Filtering:** Navigate through different pages like Homepage, Plays, and Events, with filtering options.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies Used
 
-### `npm test`
+- Frontend: React.js, Tailwind CSS, react-slick (for carousel).
+- Backend: TMDB API (for movie data), Razorpay (for test mode payments).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Screenshots
 
-### `npm run build`
+### Home Page
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Screenshot_38](https://github.com/TusharTechs/book-my-show/assets/56952465/35c0f984-0aed-40c0-bd78-9c485995e51a)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Premier and Online Streaming Events
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Screenshot_39](https://github.com/TusharTechs/book-my-show/assets/56952465/cba57a2d-2898-41ae-a8e7-41dede7bc6e1)
 
-### `npm run eject`
+### Movie Page
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Screenshot_40](https://github.com/TusharTechs/book-my-show/assets/56952465/f6a951a8-c85f-4b8f-83e8-ab5c7b51b5e6)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Payment Gateway
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Screenshot_41](https://github.com/TusharTechs/book-my-show/assets/56952465/82655a67-7efd-4eb8-9a60-cbebb62fb358)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Events Page
 
-## Learn More
+![Screenshot_42](https://github.com/TusharTechs/book-my-show/assets/56952465/3c1268b5-15f4-45b2-9f87-603b2d876538)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Getting Started
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Follow these steps to run the project locally:
 
-### Analyzing the Bundle Size
+1. Clone this repository: `git clone https://github.com/your-username/your-repo.git`
+2. Navigate to the project folder: `cd your-repo`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm start`
+5. Open your browser and go to `http://localhost:3000` to access the application.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Pages
 
-### Making a Progressive Web App
+- **Homepage:** Displays recommended movies, premiers, and online streaming events.
+- **Plays:** Browse different pages and apply filters related to plays.
+- **Events:** Explore various events and apply filters.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Payment
 
-### Advanced Configuration
+To test the payment gateway without spending real money, use the provided Razorpay test mode. No actual payments will be processed.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Contributors
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## License
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+
+Feel free to customize this template according to your project's specifics. Replace placeholders like `your-username` and `your-repo` with your actual GitHub username and repository name. Enhance the template with more details that highlight your project's unique aspects.
