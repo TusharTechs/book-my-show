@@ -12,6 +12,10 @@ Welcome to the Movie Booking Application! This application allows users to brows
 
 - **Filtering:** Navigate through different pages like Homepage, Plays, and Events, with filtering options.
 
+## Deployed Link
+
+[Book My Show](https://book-my-show-clone-teal.vercel.app/)
+
 ## Technologies Used
 
 - Frontend: React.js, Tailwind CSS, react-slick (for carousel).
@@ -61,12 +65,14 @@ Follow these steps to run the project locally:
 
 To test the payment gateway without spending real money, use the provided Razorpay test mode. No actual payments will be processed.
 
-## Contributors
+## Contributing
 
+Contributions to this project are welcomed and encouraged. If you encounter any bugs, have suggestions for improvements, or want to add new features, please submit issues or pull requests through GitHub.
 
 ## License
 
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to customize this template according to your project's specifics. Replace placeholders like `your-username` and `your-repo` with your actual GitHub username and repository name. Enhance the template with more details that highlight your project's unique aspects.
+Thank you for choosing **Book My Show** for your contact management needs. If you have any questions or need further assistance, please don't hesitate to contact us at tusharaggarwal274@gmail.com. We hope you find our application both helpful and user-friendly!
