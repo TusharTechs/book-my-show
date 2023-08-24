@@ -75,4 +75,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Thank you for choosing **Book My Show** for your contact management needs. If you have any questions or need further assistance, please don't hesitate to contact us at tusharaggarwal274@gmail.com. We hope you find our application both helpful and user-friendly!
+Thank you for choosing **Book My Show**. If you have any questions or need further assistance, please don't hesitate to contact us at tusharaggarwal274@gmail.com. We hope you find our application both helpful and user-friendly!
